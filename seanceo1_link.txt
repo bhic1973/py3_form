@@ -1,1 +1,0 @@
-https://mybinder.org/v2/gh/bhic1973/py3_form/main?filepath=Seance01.ipynb
